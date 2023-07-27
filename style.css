@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text&family=Inconsolata:wght@400;700&family=Montserrat:wght@500&family=Oswald&family=Playfair+Display&family=Prata&family=Raleway:ital,wght@0,200;1,400&family=Rampart+One&family=Roboto+Slab:wght@300;400&family=Space+Mono:wght@400;700&family=Tektur&family=Tilt+Prism&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+    section{
+        position: relative;
+        width: 133px;
+        height: 25px;
+        top: 40px;
+        left: 77px;
+        font-family: 'Inconsolata', monospace;
+        line-height: 25.18px;
+        letter-spacing: -1px;
+        font-weight: 700;
+        size: 24px;
+        color: #333333;
+    }
+    img{
+        position: absolute;
+        width: 539.22px;
+        height: 447.43px;
+        top: 265px;
+        left: 77px;
+    }
+    .text{
+        position: absolute;
+        top: 265px;
+        left: 735px;
+    }
+    h1{
+        font-family: 'Space Mono', monospace;
+        font-size: 64px;
+        font-weight: 700;
+        line-height: 94.78px;
+        letter-spacing: -3.5%;
+        color: #333333;
+    }
+    .p{
+        width: 381px;
+        height: 108px;
+        position: absolute;
+        top: 491px;
+        left: 736px;
+    }
+    p{
+        font-family: 'Space Mono', monospace;
+        font-weight: 400;
+        size: 24px;
+        line-height: 35.54px;
+        letter-spacing: -3.5%;
+    }
+    button{
+        background-color:#333333;
+        position: absolute;
+        width: 216px;
+        height: 68px;
+        top: 663px;
+        left: 740px;
+        font-size: 14px;
+        line-height: 20.73px;
+        letter-spacing: -3.5%;
+        font-family: 'Space Mono', monospace;
+        font-weight: 700;
+        color: #FFFFFF;
+        border: none;
+    }
+    a{
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+    #createdBy{
+        width: 287px;
+        height: 17px;
+        top: 1030px;
+        left: 577px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        line-height: 17.07px;
+        text-align: Center;
+        color: #BDBDBD;
+        font-weight: 500;
+    }
+    
+    #portfolio{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        line-height: 17.07px;
+        text-align: Center;
+        color: #BDBDBD;
+        font-weight: 700;
+    }
+    
+
+
+
+@media(min-width:375px) and (max-width:1079px){
+    section{
+        position: relative;
+        width: 133px;
+        height: 25px;
+        top: 40px;
+        left: 50px;
+        font-family: 'Inconsolata', monospace;
+        line-height: 25.18px;
+        letter-spacing: -1px;
+        font-weight: 700;
+        size: 24px;
+        color: #333333;
+    }
+    img{
+        position: absolute;
+        width:286.83px;
+        height: 238px;
+        top:109px;
+        left: 24px;
+    }
+    .text{
+        position: relative;
+        width: 350px;
+        height: 142px;
+        top: 407px;
+        left: 14px;
+    }
+    h1{
+        font-family: 'Space Mono', monospace;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 71.09px;
+        letter-spacing: -3.5%;
+        color: #333333;
+    }
+    .p{
+        width: 328px;
+        height: 81px;
+        position: relative;
+        top: 539px;
+        left: 23px;
+    }
+    p{
+        font-family: 'Space Mono', monospace;
+        font-weight: 400;
+        size: 18px;
+        line-height: 26.66px;
+        letter-spacing: -3.5%;
+    }
+    button{
+        background-color:#333333;
+        position: relative;
+        width: 216px;
+        height: 68px;
+        top: 626px;
+        left: 24px;
+        font-size: 14px;
+        line-height: 20.73px;
+        letter-spacing: -3.5%;
+        font-family: 'Space Mono', monospace;
+        font-weight: 700;
+        color: #FFFFFF;
+        border: none;
+    }
+    a{
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+    #createdBy{
+        width: 287px;
+        height: 17px;
+        top: 808px;
+        left: 20px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        line-height: 17.07px;
+        text-align: Center;
+        color: #BDBDBD;
+        font-weight: 500;
+    }
+    
+    #portfolio{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        line-height: 17.07px;
+        text-align: Center;
+        color: #BDBDBD;
+        font-weight: 700;
+    }
+    
+
+    
+}
